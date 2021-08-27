@@ -90,7 +90,7 @@ button:hover{
 
 .hero{
   position: relative;
-  height: 100vh;
+  height: 93vh;
   display: flex; width: 100%;align-items: center;
   background: linear-gradient(0deg, rgba(0,0,0,.2), rgba(0,0,0, 0.9)),
    url('bg-video.png') no-repeat center center;
@@ -164,6 +164,8 @@ button:hover{
   padding: 50px;
   z-index: 100;
 }
+
+
 
 @media (max-width: 768px) {
   .poster{flex-wrap: wrap;height: auto;}
